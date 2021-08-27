@@ -6,7 +6,7 @@ Built using JavaScript, HTML, CSS, React, Redux, Stripe, bcrypt, Mongoose, Expre
 A user can add or remove items to their cart once logged in. Payments are handled by Stripe. </br>
 
 ## Link and Screen Shots
-
+https://enigmatic-chamber-29180.herokuapp.com/ </br>
 
 ![screenshot](https://user-images.githubusercontent.com/80430372/131052138-f0ddb74c-f181-42fa-8d03-1f03258d2b47.PNG) </br>
 
